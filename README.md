@@ -6,6 +6,8 @@
 
 ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=robitooS&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robitooS)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que mais estou utilizando e estudando:
 
 <div style="display: inline_block">
@@ -24,5 +26,4 @@
 </div>
 
 ## Sou apaixonado pela área da tecnologia e sempre estou em busca de novos conhecimentos, procuro sempre conhecer e aprender mais, gosto muito da área de Cyber Security🔒e Data Science📊 , procuro me especializar nessas áreas.
-
 
