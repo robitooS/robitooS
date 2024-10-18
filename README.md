@@ -3,7 +3,7 @@
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higor.robinn/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-robin/)
-[![Linkedin](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://www.linkedin.com/in/higor-robin/](https://leetcode.com/u/robitooS/))
+[![Linkedin](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/robitooS/))
 
 ![Higor GitHub stats](https://github-readme-stats.vercel.app/api?username=robitooS&show_icons=true&theme=radical)
 
