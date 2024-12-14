@@ -26,5 +26,5 @@
     <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div>
 
-## Sou apaixonado pela área da tecnologia e sempre estou em busca de novos conhecimentos, procuro sempre conhecer e aprender mais, gosto muito da área de Cyber Security🔒e Data Science📊 , procuro me especializar nessas áreas.
+## Sou apaixonado pela área da tecnologia e sempre estou em busca de novos conhecimentos, procuro sempre conhecer e aprender mais, gosto muito da área de Data Science e Back-End , procuro me aprofundar nessas áreas.
 
