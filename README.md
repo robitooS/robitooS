@@ -10,9 +10,9 @@ I use this space to share academic and personal projects, focusing on clean code
 
 ## Technologies
 
-- **Languages:** Python, Go, Java  
-- **Backend:** Spring Framework  
-- **Databases:** MySQL  
+- **Languages:** Python, Go, Java, C++, JavaScript
+- **Stacks:** Spring Framework, React, Django, Docker, AWS, SQL
+- **Databases:** MySQL
 
 ## Interests
 
