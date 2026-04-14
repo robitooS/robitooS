@@ -11,8 +11,8 @@ I use this space to share academic and personal projects, focusing on clean code
 ## Technologies
 
 - **Languages:** Python, Go, Java, C++, JavaScript
-- **Stacks:** Spring Framework, React, Django, Docker, AWS, SQL
-- **Databases:** MySQL
+- **Stacks:** Spring Framework, Gin, Docker, AWS, SQL, Linux
+- **Databases:** SQL Server
 
 ## Interests
 
